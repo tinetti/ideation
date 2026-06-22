@@ -478,6 +478,10 @@ For manual control, run specs individually:
 ## Installation
 
 ```bash
-/plugin marketplace add nicknisi/ideation
+/plugin marketplace add tinetti/ideation
 /plugin install ideation@ideation
 ```
+
+## Acknowledgments
+
+Forked from [nicknisi/ideation](https://github.com/nicknisi/ideation) by [Nick Nisi](https://github.com/nicknisi).

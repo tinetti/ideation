@@ -1,9 +1,10 @@
 {
   "name": "ideation",
   "description": "Single-plugin marketplace for the ideation plugin — evidence-gated planning interviews that turn brain dumps into contracts and implementation specs.",
+  "upstream": "nicknisi/ideation",
   "owner": {
-    "name": "Nick Nisi",
-    "email": "nick@nisi.org"
+    "name": "John Tinetti",
+    "email": "john.tinetti@nexteraanalytics.com"
   },
   "plugins": [
     {
@@ -13,6 +14,10 @@
       "author": {
         "name": "Nick Nisi",
         "email": "nick@nisi.org"
+      },
+      "maintainer": {
+        "name": "John Tinetti",
+        "email": "john.tinetti@nexteraanalytics.com"
       }
     }
   ]
